@@ -2,7 +2,7 @@
 apt update
 sudo apt install curl -y
 
- bash <(curl  -s  -L  https://hell.flytohell.tk/script/aria2dash.sh)
+ #bash <(curl  -s  -L  https://hell.flytohell.tk/script/aria2dash.sh)
 #Done.
 sudo apt-get install apache2 -y
 sudo apt-get install php7.0 -y
