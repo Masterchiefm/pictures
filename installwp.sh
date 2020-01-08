@@ -6,9 +6,9 @@ sudo apt install curl -y
 #Done.
 sudo apt-get install apache2 -y
 sudo apt-get install php7.0 -y
-sudo apt-get install libapache2-mod-php7.0
+sudo apt-get install libapache2-mod-php
 sudo apt-get install mysql-server -y
-sudo apt-get install php7.0-mysql
+sudo apt-get install php-mysql
 sudo apt-get install phpmyadmin -y
 sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
 sudo service mysql restart
